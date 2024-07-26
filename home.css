@@ -1,0 +1,334 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+}
+
+#head{
+    
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+#head h1{
+    color: whitesmoke;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+#head ul{
+    float: right;
+    margin-right: 40px;
+}
+#head ul li{
+    display: inline;
+    margin-right: 30px;
+    
+}
+#head ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size:large;
+}
+#examic{
+    margin-bottom: 50px;
+}
+#examic{
+    width:80%;
+}
+h2{
+    margin-top:40px;
+    font-size: xx-large;
+    margin-top: 80px;
+}
+#examic p{
+    margin-bottom: 40px;
+    font-size: larger;
+    line-height:1.7;
+}
+#first-pic{
+    width: 28%;
+    height: 300px;
+    background-image:url("/image/customized\ test.png");
+    float: left;
+    margin-left: 34px;;
+    color:whitesmoke;
+    margin-top: 50px;
+}
+#second-pic{
+    width:104%; ;
+    height: 300px;
+    background-image:url("/image/scalable\ test.jpeg");
+    margin-left: 395px;
+    margin-top:-213px;;
+    color:whitesmoke;
+    float: left;
+}
+#third-pic{
+    width: 105%;
+    height:300px;
+    background-image:url("/image/comprehensive.jpeg");
+    float:none;
+    margin-left:  806px;
+    color:whitesmoke;
+    margin-top:-293px;
+}
+#soln{
+    clear: both;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 45%;
+}
+#cbt{
+    width: 28%;
+    height: 400px;
+    float: left;
+    margin-left:4%;
+    margin-top: 5%;
+}
+#exam{
+    width: 28%;
+    height: 400px;
+    float: left;
+    margin-left: 5%; 
+    margin-top: 5%;
+}
+#digital{
+    width: 28%;
+    height: 400px;
+    float: right;
+    margin-right: 3%;
+    margin-top: 5%;
+}
+h3{
+    font-size: x-large;
+    padding-top:6%;
+    padding-bottom:6%;
+    text-align: left;
+}
+p{
+    font-size: larger;
+ 
+    line-height: 1.3;
+}
+#why{
+    height:500px;
+   
+    clear: both;
+    background-image: url('/image/why\ examic.jpeg');
+    background-size: 100%;
+    padding:60px;
+}
+.faster{
+    width: 20%;
+    height: 150px;
+    float: left;
+    margin-left: 5%;
+    color:whitesmoke;
+    margin-top: 10%;
+
+}
+.safer{
+    width: 20%;
+    height: 150px;
+    float: left;
+    margin-left: 10%;
+    color:whitesmoke;
+    margin-top: 10%;
+
+}
+.configure{
+    width: 20%;
+    height: 150px;
+    float: right;
+    margin-right: 15%;
+    color:whitesmoke;
+    margin-top: 10%;
+}
+.faster h4{
+    font-size: xx-large;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.safer h4{
+    font-size:xx-large;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.configure h4{
+    font-size: xx-large;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.fa-forward-fast{
+    font-size: 50px;
+}
+.fa-shield-halved{
+    font-size: 50px;
+}
+.fa-gears{
+    font-size: 50px;
+}
+#why h1{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+}
+#blog{
+    width: 100%;
+    height: 600px;
+    clear: both;
+}
+.end{
+    width: 30%;
+    height: 150px;
+    float: left;
+    margin-left: 3%;
+    margin-top: 7%;
+}
+.process{
+    width: 30%;
+    height: 150px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 7%;
+}
+.digital{
+    width: 30%;
+    height: 150px;
+    float: right;
+    margin-right: 3%;
+    margin-top: 7%;
+}
+.end img{
+    width: 100%;
+
+}
+.process img{
+    width: 100%;
+
+}
+.digital img{
+    width: 100%;
+
+}
+.end a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    text-align: left;
+    padding-top: 2%;
+}
+.process a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    text-align: left;
+    padding-top: 2%;
+}
+.digital a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    text-align: left;
+    padding-top: 5%;
+}
+.go{
+    clear: both;
+    font-size: xx-large;
+    margin-top: 45%;
+    
+}
+.go a{
+    text-decoration: none;
+    border: 2px solid grey;
+    color: black;
+    padding:20px 40px;
+    font-size: 15px;
+}
+#footer{
+    margin-top: 80px;
+    background-color: black;
+    
+    padding:80px;
+    
+}
+.about{
+    color:whitesmoke;
+    width: 20%;
+    height: 20%;
+    float: left;
+   
+}
+.address{
+    color: whitesmoke;
+    width: 20%;
+    height: 20%;
+    float: left;
+    margin-left:230px;
+    
+}
+.follow{
+    color: whitesmoke;
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+.about h4{
+    font-size: x-large;
+    padding-bottom: 40px;
+}
+.address h4{
+    font-size: x-large;
+    padding-bottom: 40px;
+}
+.follow h4{
+    font-size: x-large;
+    padding-bottom: 40px;
+}
+.about p{
+    opacity: .7;
+    line-height: 1.4;
+}
+.address p{
+    opacity: .7;
+    line-height: 1.4;
+}
+.follow p{
+    opacity: .7;
+    line-height: 1.4;
+    padding-bottom: 20px;
+}
+hr{
+    margin-top: 300px;
+    width: 100%;
+    opacity: .7;
+}
+.bottom{
+    clear: both;
+    color: whitesmoke;
+    margin-top:50px;
+
+}
+#all{
+    float: left;
+}
+#ed{
+    float: right;
+    opacity: .7;
+}
+.scale{
+    margin-top: -60px;
+}
+.scale1{
+    margin-top: -60px;
+    margin-left: 10px;
+}
+.btn{
+    margin-top: 10px;
+}
+.
+
+
+
+
